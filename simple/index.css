@@ -1,0 +1,25 @@
+body {
+  font-family: "Montserrat";
+}
+
+.uhost-heading-section h1 {
+  padding: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+section {
+  background-color: #ff1b68;
+}
+
+h1 {
+  padding: 10px;
+  color: white;
+  font-family: "Anton", sans-serif;
+}
+
+.uhost-second-heading {
+  color: #22bf5c;
+}
+
+#h1a2 {
+  color: black;
+}
